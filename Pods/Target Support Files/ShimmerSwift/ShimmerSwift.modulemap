@@ -1,0 +1,6 @@
+module ShimmerSwift {
+  umbrella header "ShimmerSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_NagarajanImgur {
+  umbrella header "Pods-NagarajanImgur-umbrella.h"
+
+  export *
+  module * { export * }
+}
