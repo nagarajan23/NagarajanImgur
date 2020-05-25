@@ -1,0 +1,28 @@
+PODS:
+  - lottie-ios (3.1.6)
+  - ShimmerSwift (2.1.1)
+  - SwiftKeychainWrapper (3.4.0)
+  - UIImageColors (2.1.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - ShimmerSwift
+  - SwiftKeychainWrapper
+  - UIImageColors
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - ShimmerSwift
+    - SwiftKeychainWrapper
+    - UIImageColors
+
+SPEC CHECKSUMS:
+  lottie-ios: 85ce835dd8c53e02509f20729fc7d6a4e6645a0a
+  ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+  UIImageColors: d2ef3b0877d203cbb06489eeb78ea8b7788caabe
+
+PODFILE CHECKSUM: f9e46263639f08a1f1b6239ef241379f228ad2a7
+
+COCOAPODS: 1.9.0
